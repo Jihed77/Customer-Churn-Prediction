@@ -1,7 +1,21 @@
 __pycache__/
 *.py[cod]
+*.pyo
+
+venv/
+.venv/
+env/
+
 .ipynb_checkpoints/
 
 *.pkl
+*.joblib
+
+.env
+
 
 .DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
